@@ -9,7 +9,7 @@ Before the Technical Management NL app can be used, there are a couple of settin
 ![Image](../images/setup-integration/post-code-service-setup.png)
 
 > [!IMPORTANT]
-> When setting up the Bluace API please contact [Bluace](https://bluace.nl/contact/) to retrieve the API Key and Endpoint. When using the PostNL API please refer to [Address validation API's](https://developer.postnl.nl/integration-with-postnl/api-overview/addresses/)
+> When setting up the Bluace API please contact [Bluace](https://support.bluace.nl/en-US/) to retrieve the API Key and Endpoint. When using the PostNL API please refer to [Address validation API's](https://developer.postnl.nl/integration-with-postnl/api-overview/addresses/)
 
 | *Name* | *Description* |
 | ------ | ------------- |
