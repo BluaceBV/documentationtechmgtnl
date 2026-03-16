@@ -10,7 +10,7 @@ Before the Technical Management NL app can be used, there are a couple of settin
 
 | *Name* | *Description* |
 | ------ | ------------- |
-| Type | PostNL Bluace |
+| Type | <ul><li>PostNL</li><li>Bluace</li></ul> |
 | API Key | The API Key for the Post Code webservice. |
 | Endpoint | The Endpoint for the Post Code webservice. |
 | Visible On Contact | Specifies whether the search field is visible on the contact card. |
